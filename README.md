@@ -10,13 +10,13 @@ I'm a passionate Web Developer. Exploring the world of technology and creating a
 - **Frameworks:** React.js, Node.js, Express, Next.js
 - **Database:** MongoDB, PostgreSQL
 - **Tools:** Git, VSCode
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ACwolf55&show_icons=true&hide=contribs)
   
 <!-- Projects -->
 ## Projects
 - [Farinacci Fitness](https://github.com/ACwolf55/farinacci_fitness): Next.js, small business website.
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ACwolf55&show_icons=true&hide=contribs)
 
 <!-- Social Links -->
 ## Let's Connect
