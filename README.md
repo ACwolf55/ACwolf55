@@ -13,15 +13,15 @@ I'm a passionate Web Developer. Exploring the world of technology and creating a
 
 <!-- Projects -->
 ## Projects
-- [Project 1](https://github.com/ACwolf55/farinacci_fitness): Nextjs, small business web site.
+- [Farinacci Fitness] (https://github.com/ACwolf55/farinacci_fitness): Nextjs, small business web site.
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?ACwolf55&show_icons=true&hide=contribs)
 
 <!-- Social Links -->
 ## Let's Connect
-- [LinkedIn](your-linkedin-profile](https://www.linkedin.com/in/alexander-crowe-dev/)
-- [Portfolio Website](https://alexcrowe-dev.xyz/)
+- [LinkedIn] (https://www.linkedin.com/in/alexander-crowe-dev/)
+- [Portfolio Website] (https://alexcrowe-dev.xyz/)
 
 <!-- Visitor Counter -->
 ![Visitor Count](https://profile-counter.glitch.me/ACwolf55/count.svg)
