@@ -6,7 +6,7 @@ I'm a passionate Web Developer. Exploring the world of technology and creating a
 
 <!-- Skills -->
 ## Skills
-- **Languages:** JavaScript, HTML, CSS, Python
+- **Languages:** JavaScript / Typescript, HTML, CSS, Python
 - **Frameworks:** React.js, Node.js, Express, Next.js
 - **Database:** MongoDB, PostgreSQL
 - **Tools:** Git, VSCode
