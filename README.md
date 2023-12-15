@@ -10,6 +10,7 @@ I'm a passionate Web Developer. Exploring the world of technology and creating a
 - **Frameworks:** React.js, Node.js, Express, Next.js
 - **Database:** MongoDB, PostgreSQL
 - **Tools:** Git, VSCode
+- **Learning:** Java/SpringBoot, Kotlin/Android Studio, Vue
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ACwolf55&show_icons=true&hide=contribs)
