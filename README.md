@@ -21,7 +21,7 @@ I'm a passionate Web Developer. Exploring the world of technology and creating a
 - [Pokemon Team Builder - Front End](https://github.com/ACwolf55/pkm-team-builder): React, Tailwind browser-side for Pokemon Team Builder.
 - [Pokemon Team Builder - Back End](https://github.com/ACwolf55/pkm-team-builder-server): Java Springboot Server with Supabase PostgreSQL DB, CRUD methods on database and login and signup.
 - [MyVcf](https://github.com/ACwolf55/farinacci_fitness): React, Express, MongoDB, Businesses can signup, upload image, and get profile page where users can download VCF file(contact info) of business.
-- [Dawg Sports](https://github.com/ACwolf55/dawg-sports-vue): Vue, Tailwind, NFL sports website, loking to add Springboot Server in the Future!
+- [Dawg Sports](https://github.com/ACwolf55/dawg-sports-vue): Vue, Tailwind, NFL sports website, looking to add Springboot Server in the future!
 - [Farinacci Fitness](https://github.com/ACwolf55/farinacci_fitness): Next.js, Tailwind, small business website.
 
 
