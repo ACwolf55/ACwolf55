@@ -6,19 +6,24 @@ I'm a passionate Web Developer. Exploring the world of technology and creating a
 
 <!-- Skills -->
 ## Skills
-- **Languages:** JavaScript / Typescript, HTML, CSS, Python, Java
-- **Frameworks:** React.js, Node.js, Express, Next.js
+- **Languages:** JavaScript / Typescript, HTML, CSS, Java, Python
+- **Frameworks:** React.js, Node.js, Express, Next.js, Springboot
 - **Database:** MongoDB, PostgreSQL
 - **Tools:** Git, VSCode
-- **Learning - now:** Java/Spring
-- **Learning - someday:** Kotlin/Android Studio, Vue, Gleam
+- **Learning - now:** Java/Springboot, Vue
+- **Learning - someday:** Kotlin/Android Studio, Gleam? , Elixer?
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ACwolf55&show_icons=true&hide=contribs)
   
 <!-- Projects -->
 ## Projects
-- [Farinacci Fitness](https://github.com/ACwolf55/farinacci_fitness): Next.js, small business website.
+- [Pokemon Team Builder - Front End](https://github.com/ACwolf55/pkm-team-builder): React, Tailwind browser-side for Pokemon Team Builder.
+- [Pokemon Team Builder - Back End](https://github.com/ACwolf55/pkm-team-builder-server): Java Springboot Server with Supabase PostgreSQL DB, CRUD methods on database and login and signup.
+- [MyVcf](https://github.com/ACwolf55/farinacci_fitness): React, Express, MongoDB, Businesses can signup, upload image, and get profile page where users can download VCF file(contact info) of business.
+- [Dawg Sports](https://github.com/ACwolf55/dawg-sports-vue): Vue, Tailwind, NFL sports website, loking to add Springboot Server in the Future!
+- [Farinacci Fitness](https://github.com/ACwolf55/farinacci_fitness): Next.js, Tailwind, small business website.
+
 
 <!-- Social Links -->
 ## Let's Connect
