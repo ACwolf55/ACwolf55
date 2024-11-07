@@ -10,8 +10,8 @@ I'm a passionate Web Developer. Exploring the world of technology and creating a
 - **Frameworks:** React.js, Node.js, Express, Next.js, Springboot
 - **Database:** MongoDB, PostgreSQL
 - **Tools:** Git, VSCode
-- **Learning - now:** Java/Springboot, Vue
-- **Learning - someday:** Kotlin/Android Studio, Gleam? , Elixer?
+- **Learning - now:** Vue, Elixer
+- **Learning - someday:** Kotlin/Android Studio, Gleam
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ACwolf55&show_icons=true&hide=contribs)
