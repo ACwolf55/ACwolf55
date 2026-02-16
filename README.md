@@ -55,4 +55,3 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 
 *3 years mentoring 100+ students in full-stack development. Currently looking to join a dev team, build cool stuff, and keep improving.*
 
-![Visitor Count](https://profile-counter.glitch.me/ACwolf55/count.svg)
