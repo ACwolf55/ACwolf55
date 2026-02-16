@@ -8,16 +8,16 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 
 ## 🚀 Live Projects (Vercel)
 
-- **NBA/NFL sports site** (Vue, Tailwind) — [live](https://your-nba-site.vercel.app)
-- **SSB League site** (Next.js) — [live](https://your-ssb-site.vercel.app)
-- **Farinacci Fitness** (Next.js, Tailwind) — personal trainer site — [live](https://your-trainer-site.vercel.app)
+- **NBA/NFL sports site** (Vue, Tailwind) — [live](https://www.dawgsports.xyz/)
+- **Farinacci Fitness** (Next.js, Tailwind) — personal trainer site — [live](https://www.farinaccifitness.com/)
+- **SSB League site** (Next.js, Tailwind) — [live](https://ssb-league.vercel.app/)
 
 ---
 
 ## 📦 Full-Stack Projects (Previously Deployed)
 
-- **MyVCF** — Business profile platform: users register, upload logo via Cloudinary, get custom profile page (Node/Express, MongoDB, previously on Heroku)  
-  [Repo](https://github.com/ACwolf55/myvcf) *(Note: this repo name is shared with trainer site—consider renaming for clarity)*
+- **MyVCF** — Business profile platform: users register, upload logo via Cloudinary, get custom profile page (Node/Express, MongoDB, postgreSQL, previously on Heroku)  
+  [Repo](https://github.com/ACwolf55/myvcf)
 
 - **AC-Market** — E-commerce site: user carts, Stripe payments (Node/Express, previously on Heroku)  
   [Repo](https://github.com/ACwolf55/AC-2-Market)
@@ -43,10 +43,7 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 
 ## 📊 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACwolf55&show_icons=true&hide=contribs&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ACwolf55&layout=compact)
-
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACwolf55)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📫 Let's Connect
