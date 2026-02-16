@@ -1,38 +1,61 @@
-<!-- Header -->
-# Hi there! 👋 I'm Alex
+# Hi, I'm Alex 👋 — Full-Stack Developer (React, Spring Boot, PostgreSQL)
 
-<!-- Introduction -->
-I'm a passionate Web Developer. Exploring the world of technology and creating awesome things.
+Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and MongoDB**. Also experienced with Vue, Python, and Node.js/Express.
 
-<!-- Skills -->
-## Skills
-- **Languages:** JavaScript / Typescript, HTML, CSS, Java, Python
-- **Frameworks:** React.js, Node.js, Express, Next.js, Springboot
-- **Database:** MongoDB, PostgreSQL
-- **Tools:** Git, VSCode
-- **Learning - now:** Vue, Elixer
-- **Learning - someday:** Kotlin/Android Studio, Gleam
+*3+ years of professional experience teaching and building full-stack applications at DevMountain (2021–2024). Completed Revature Java/Spring Boot training program (Spring 2025).*
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ACwolf55&show_icons=true&hide=contribs)
-  
-<!-- Projects -->
-## Projects
-- [Pokemon Team Builder - Front End](https://github.com/ACwolf55/pkm-team-builder): React, Tailwind browser-side for Pokemon Team Builder.
-- [Pokemon Team Builder - Back End](https://github.com/ACwolf55/pkm-team-builder-server): Java Springboot Server with Supabase PostgreSQL DB, CRUD methods on database and login and signup.
-- [MyVcf](https://github.com/ACwolf55/farinacci_fitness): React, Express, MongoDB, Businesses can signup, upload image, and get profile page where users can download VCF file(contact info) of business.
-- [Dawg Sports](https://github.com/ACwolf55/dawg-sports-vue): Vue, Tailwind, NFL sports website, looking to add Springboot Server in the future!
-- [Farinacci Fitness](https://github.com/ACwolf55/farinacci_fitness): Next.js, Tailwind, small business website.
+---
 
+## 🚀 Live Projects (Vercel)
 
-<!-- Social Links -->
-## Let's Connect
+- **NBA/NFL sports site** (Vue, Tailwind) — [live](https://your-nba-site.vercel.app)
+- **SSB League site** (Next.js) — [live](https://your-ssb-site.vercel.app)
+- **Farinacci Fitness** (Next.js, Tailwind) — personal trainer site — [live](https://your-trainer-site.vercel.app)
+
+---
+
+## 📦 Full-Stack Projects (Previously Deployed)
+
+- **MyVCF** — Business profile platform: users register, upload logo via Cloudinary, get custom profile page (Node/Express, MongoDB, previously on Heroku)  
+  [Repo](https://github.com/ACwolf55/myvcf) *(Note: this repo name is shared with trainer site—consider renaming for clarity)*
+
+- **AC-Market** — E-commerce site: user carts, Stripe payments (Node/Express, previously on Heroku)  
+  [Repo](https://github.com/ACwolf55/AC-2-Market)
+
+---
+
+## 🔧 Currently Building
+
+**Pokémon Team Builder** — Full-stack app with JWT authentication (secure login, protected routes, PostgreSQL). Migrating backend from Express to Spring Boot to deepen enterprise skills.
+
+- [Frontend Repo](https://github.com/ACwolf55/Pokemon-team-builder-hooks)
+- [Backend Repo](https://github.com/ACwolf55/pkm-team-builder-server)
+
+---
+
+## 🧰 Tech Stack
+
+**Core:** React, Next.js, Vue, TypeScript, Java, Spring Boot, Node.js/Express, Python  
+**Databases:** PostgreSQL, MongoDB  
+**Tools:** Cloudinary, Stripe, JWT (Node + Java), Git, VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACwolf55&show_icons=true&hide=contribs&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ACwolf55&layout=compact)
+
+---
+
+## 📫 Let's Connect
+
 - [LinkedIn](https://www.linkedin.com/in/alexander-crowe-dev/)
-- [Portfolio Website](https://alexcrowe-dev.xyz/)
+- [Portfolio]under maintenance
 
-<!-- Visitor Counter -->
+---
+
+*3 years mentoring 100+ students in full-stack development. Currently looking to join a dev team, build cool stuff, and keep improving.*
+
 ![Visitor Count](https://profile-counter.glitch.me/ACwolf55/count.svg)
-
-
-<!-- Footer -->
-*Thanks for visiting my profile! Feel free to connect and explore my projects.*
