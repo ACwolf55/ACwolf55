@@ -15,10 +15,10 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 
 ## 🧱 Full-Stack Projects (Previously Deployed)
 
-- **MyVCF** — Business profile platform: users register, upload logo via Cloudinary, get custom profile page (Node/Express, MongoDB, postgreSQL, previously on Heroku)  
+- **MyVCF** — Business profile platform: users register, upload logo via Cloudinary, get custom profile page (Node/Express, MongoDB, previously on Heroku)  
   [Repo](https://github.com/ACwolf55/myvcf)
 
-- **AC-Market** — E-commerce site: user carts, Stripe payments (Node/Express, previously on Heroku)  
+- **AC-Market** — E-commerce site: user carts, Stripe payments (Node/Express, PostgreSQL - for users and carts, MongoDB - for orders, previously on Heroku)  
   [Repo](https://github.com/ACwolf55/AC--2---Market)
 
 
