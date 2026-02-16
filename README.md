@@ -41,16 +41,11 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 
 ---
 
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-
----
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/alexander-crowe-dev/)
-- [Portfolio]under maintenance
+
 
 ---
 
