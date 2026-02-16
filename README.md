@@ -5,7 +5,7 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 *3+ years of professional experience teaching and building full-stack applications at DevMountain (2021–2024). Completed Revature Java/Spring Boot training program (Spring 2025).*
 
 
-## 🔧 Currently Building
+## 🏗️ Currently Building
 
 **Pokémon Team Builder** — Full-stack app with JWT authentication (secure login, protected routes, PostgreSQL). Migrating backend from Express to Spring Boot to deepen enterprise skills.
 
@@ -13,7 +13,7 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 - [Backend Repo](https://github.com/ACwolf55/pkm-team-builder-server)
 
 
-## 📦 Full-Stack Projects (Previously Deployed)
+## 🧱 Full-Stack Projects (Previously Deployed)
 
 - **MyVCF** — Business profile platform: users register, upload logo via Cloudinary, get custom profile page (Node/Express, MongoDB, postgreSQL, previously on Heroku)  
   [Repo](https://github.com/ACwolf55/myvcf)
@@ -25,7 +25,7 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 ------
 
 
-## 🚀 Live Projects (Vercel)
+## 🌐 Live Projects (Vercel)
 
 - **Farinacci Fitness** (Next.js, Tailwind) — personal trainer site — [live](https://www.farinaccifitness.com/)
 - **SSB League site** (Next.js, Tailwind) — [live](https://ssb-league.vercel.app/)
@@ -37,7 +37,7 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Tech Stack
 
 **Core:** React, Next.js, Vue, TypeScript, Java, Spring Boot, Node.js/Express, Python  
 **Databases:** PostgreSQL, MongoDB  
@@ -46,7 +46,7 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 ---
 
 
-## 📫 Let's Connect
+##  🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/alexander-crowe-dev/)
 
