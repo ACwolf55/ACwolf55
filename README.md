@@ -4,25 +4,6 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 
 *3+ years of professional experience teaching and building full-stack applications at DevMountain (2021–2024). Completed Revature Java/Spring Boot training program (Spring 2025).*
 
-## 📦 Full-Stack Projects (Previously Deployed)
-
-- **MyVCF** — Business profile platform: users register, upload logo via Cloudinary, get custom profile page (Node/Express, MongoDB, postgreSQL, previously on Heroku)  
-  [Repo](https://github.com/ACwolf55/myvcf)
-
-- **AC-Market** — E-commerce site: user carts, Stripe payments (Node/Express, previously on Heroku)  
-  [Repo]([https://github.com/ACwolf55/AC-2-Market](https://github.com/ACwolf55/AC--2---Market)
-
-------
-
-## 🚀 Live Projects (Vercel)
-
-- **Farinacci Fitness** (Next.js, Tailwind) — personal trainer site — [live](https://www.farinaccifitness.com/)
-- **SSB League site** (Next.js, Tailwind) — [live](https://ssb-league.vercel.app/)
-- **NBA/NFL sports site** (Vue, Tailwind) — [live](https://www.dawgsports.xyz/)
-
----
-
-
 
 ## 🔧 Currently Building
 
@@ -30,6 +11,29 @@ Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and Mongo
 
 - [Frontend Repo](https://github.com/ACwolf55/Pokemon-team-builder-hooks)
 - [Backend Repo](https://github.com/ACwolf55/pkm-team-builder-server)
+
+
+## 📦 Full-Stack Projects (Previously Deployed)
+
+- **MyVCF** — Business profile platform: users register, upload logo via Cloudinary, get custom profile page (Node/Express, MongoDB, postgreSQL, previously on Heroku)  
+  [Repo](https://github.com/ACwolf55/myvcf)
+
+- **AC-Market** — E-commerce site: user carts, Stripe payments (Node/Express, previously on Heroku)  
+  [Repo](https://github.com/ACwolf55/AC--2---Market)
+
+
+------
+
+
+## 🚀 Live Projects (Vercel)
+
+- **Farinacci Fitness** (Next.js, Tailwind) — personal trainer site — [live](https://www.farinaccifitness.com/)
+- **SSB League site** (Next.js, Tailwind) — [live](https://ssb-league.vercel.app/)
+- **NBA/NFL sports site** (Vue, Tailwind) — [live](https://www.dawgsports.xyz/)
+
+
+---
+
 
 ---
 
