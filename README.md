@@ -1,57 +1,45 @@
-# Hi, I'm Alex 👋 — Full-Stack Developer (React, Spring Boot, PostgreSQL)
+# Hi, I'm Alex 👋 — Full-Stack Developer
 
-Full-stack developer specializing in **React, Spring Boot, PostgreSQL, and MongoDB**. Also experienced with Vue, Python, and Node.js/Express.
+React · TypeScript · Spring Boot · Vue · Node.js · PostgreSQL · AWS
 
-*3+ years of professional experience teaching and building full-stack applications at DevMountain (2021–2024). Completed Revature Java/Spring Boot training program (Spring 2025).*
-
-
-## 🏗️ Currently Building
-
-**Pokémon Team Builder** — Full-stack app with JWT authentication (secure login, protected routes, PostgreSQL). Migrating backend from Express to Spring Boot to deepen enterprise skills.
-
-- [Frontend Repo](https://github.com/ACwolf55/Pokemon-team-builder-hooks)
-- [Backend Repo](https://github.com/ACwolf55/pkm-team-builder-server)
-
-
-## 🧱 Full-Stack Projects (Previously Deployed)
-
-- **MyVCF** — Business profile platform: users register, upload logo via Cloudinary, get custom profile page (Node/Express, MongoDB, previously on Heroku)  
-  [Repo](https://github.com/ACwolf55/myvcf)
-
-- **AC-Market** — E-commerce site: user carts, Stripe payments (Node/Express, PostgreSQL - for users and carts, MongoDB - for orders, previously on Heroku)  
-  [Repo](https://github.com/ACwolf55/AC--2---Market)
-
-
-------
-
-
-## 🌐 Live Projects (Vercel)
-
-- **Farinacci Fitness** (Next.js, Tailwind) — personal trainer site — [live](https://www.farinaccifitness.com/)
-- **SSB League site** (Next.js, Tailwind) — [live](https://ssb-league.vercel.app/)
-- **NBA/NFL sports site** (Vue, Tailwind) — [live](https://www.dawgsports.xyz/)
-
+3+ years building and teaching full-stack development at DevMountain (SME, 2021–2024). Now shipping real apps and looking to join a team.
 
 ---
 
+## 🚀 Live Projects
+
+**Pokémon Team Builder** — React/TypeScript + Spring Boot + PostgreSQL, deployed on AWS Elastic Beanstalk. JWT auth, PokéAPI integration, full CRUD on saved teams. Debugged a real IPv6/IPv4 routing issue between AWS and Supabase in production.
+- [Live Site](https://pkmteambuilder.xyz) · [Frontend](https://github.com/ACwolf55/pkm-team-builder) · [Backend](https://github.com/ACwolf55/pkm-team-builder-server)
+
+**Dawg Sports** — Vue 3 + Node/Express + PostgreSQL. Full-stack monorepo: frontend on Vercel, backend on Railway, DB on Supabase. Live NFL/NBA rankings from a real database.
+- [Live Site](https://www.dawgsports.xyz) · [Repo](https://github.com/ACwolf55/dawg-sports-vue)
+
+**Portfolio** — Nuxt 3 SSG, dark game/fandom aesthetic, deployed on Vercel.
+- [Live Site](https://alexcrowe-dev.online)
+
+---
+
+## 🧱 Previously Built
+
+- **MyVCF** — Business profile platform, Cloudinary uploads, Node/Express + MongoDB · [Repo](https://github.com/ACwolf55/myvcf)
+- **AC-Market** — E-commerce with Stripe payments, Node/Express + PostgreSQL + MongoDB · [Repo](https://github.com/ACwolf55/AC--2---Market)
+- **Farinacci Fitness** — Personal trainer site, Next.js + Tailwind · [Live](https://www.farinaccifitness.com/)
+- **SSB League** — Tournament bracket site · [Live](https://ssb-league.vercel.app/)
 
 ---
 
 ## ⚡ Tech Stack
 
-**Core:** React, Next.js, Vue, TypeScript, Java, Spring Boot, Node.js/Express, Python  
+**Frontend:** React, TypeScript, Next.js, Vue/Nuxt, Tailwind CSS  
+**Backend:** Spring Boot (Java), Node.js/Express, Sequelize  
 **Databases:** PostgreSQL, MongoDB  
-**Tools:** Cloudinary, Stripe, JWT (Node + Java), Git, VS Code
+**DevOps:** AWS Elastic Beanstalk, Vercel, Railway, Supabase  
+**Tools:** JWT Auth, Cloudinary, Stripe, Git
 
 ---
 
+## 🤝 Let's Connect
 
-##  🤝 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/alexander-crowe-dev/) · [Portfolio](https://alexcrowe-dev.online)
 
-- [LinkedIn](https://www.linkedin.com/in/alexander-crowe-dev/)
-
-
----
-
-*3 years mentoring 100+ students in full-stack development. Currently looking to join a dev team, build cool stuff, and keep improving.*
 
