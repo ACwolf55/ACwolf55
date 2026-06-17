@@ -12,7 +12,7 @@ React · TypeScript · Spring Boot · Vue · Node.js · PostgreSQL · AWS
 - [Live Site](https://pkmteambuilder.xyz) · [Frontend](https://github.com/ACwolf55/pkm-team-builder) · [Backend](https://github.com/ACwolf55/pkm-team-builder-server)
 
 **Dawg Sports** — Vue 3 + Node/Express + PostgreSQL. Full-stack monorepo: frontend on Vercel, backend on Railway, DB on Supabase. Live NFL/NBA rankings from a real database.
-- [Live Site](https://www.dawgsports.xyz) · [Repo](https://github.com/ACwolf55/dawg-sports-vue)
+- [Live Site](https://dawg-sports-vue.vercel.app/) · [Repo](https://github.com/ACwolf55/dawg-sports-vue)
 
 **Portfolio** — Nuxt 3 SSG, dark game/fandom aesthetic, deployed on Vercel.
 - [Live Site](https://alexcrowe-dev.online)
